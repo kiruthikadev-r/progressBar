@@ -1,3 +1,4 @@
  # Progress Bar Preview!
  
- [image](https://github.com/kiruthikadev-r/progressBar/assets/146549751/224f1186-6689-46d7-b06b-cf1854a883c3)
+ 
+![image](https://github.com/kiruthikadev-r/progressBar/assets/146549751/5bc334f8-16b9-4e6d-a3f6-c89e4edae46c)
